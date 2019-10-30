@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572462213 source:c:\users\rares\desktop\prpoo1\main.cpp
+	<iostream>
+	<fstream>
+	"Vector.h"
+
+1572467539 c:\users\rares\desktop\prpoo1\vector.h
+	<iostream>
+
+1572462187 source:c:\users\rares\desktop\prpoo1\vector.cpp
+	"Vector.h"
+	<iostream>
+
